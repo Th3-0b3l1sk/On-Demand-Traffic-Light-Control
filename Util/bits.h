@@ -1,10 +1,9 @@
-/*
- * bits.h
- *
- * Created: 7/31/2022 9:56:27 PM
- *  Author: Mahmoud
- */ 
-
+/* -------------------------------------
+* Author: Mahmoud Abdullah
+* EgFWD Professional Embedded Systems
+* Github: https://github.com/Th3-0b3l1sk
+* --------------------------------------
+*/
 
 #ifndef BITS_H_
 #define BITS_H_

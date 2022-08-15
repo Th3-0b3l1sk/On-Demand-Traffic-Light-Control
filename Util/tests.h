@@ -1,10 +1,9 @@
-/*
- * tests.h
- *
- * Created: 8/12/2022 6:23:46 PM
- *  Author: Mahmoud
- */ 
-
+/* -------------------------------------
+* Author: Mahmoud Abdullah
+* EgFWD Professional Embedded Systems
+* Github: https://github.com/Th3-0b3l1sk
+* --------------------------------------
+*/
 
 #ifndef TESTS_H_
 #define TESTS_H_

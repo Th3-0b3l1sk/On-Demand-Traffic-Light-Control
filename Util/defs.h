@@ -1,9 +1,9 @@
-/*
- * defs.h
- *
- * Created: 8/1/2022 12:22:53 AM
- *  Author: Mahmoud
- */ 
+/* -------------------------------------
+* Author: Mahmoud Abdullah
+* EgFWD Professional Embedded Systems
+* Github: https://github.com/Th3-0b3l1sk
+* --------------------------------------
+*/
 
 
 #ifndef DEFS_H_
